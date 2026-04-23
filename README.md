@@ -20,30 +20,75 @@ I build practical software and data-driven systems that solve real problems.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skills
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Programming & Core
+- Python  
+- Java  
+- C  
+- JavaScript  
+
+---
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- HTML, CSS  
+- React.js  
+- PHP  
+- Web Technologies  
+- Application Development  
 
-### 📊 Data Analysis
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+---
 
 ### 📱 App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- Flutter  
 
-### ⚡ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+### ⚡ Backend & Systems
+- Node.js  
+- FastAPI  
+- MySQL, PhpMyAdmin  
+- Scalable Web Applications  
+- Scalable Architecture  
+- Managed Hosting  
+
+---
+
+### 📊 Data & Analytics
+- Data Analysis  
+- Data Visualization  
+- Dashboards  
+- Tableau  
+- Pandas, NumPy  
+- Matplotlib  
+- Chart.js  
+
+---
+
+### 🤖 AI & Advanced Technologies
+- Generative AI Tools  
+- Prompt Engineering  
+- AI Agents  
+- Model Context Protocol (MCP)  
+- High Performance Computing (HPC)  
+
+---
+
+### 🔧 Tools & Engineering
+- CLI (Command Line Interface)  
+- Web Scraping  
+- Data Extraction  
+- Software Development  
+- Interactive Programming  
+
+---
+
+### 🎯 Domain Knowledge
+- Engineering Education Systems  
+- Digital Applications  
+- Research Technology  
+- Information Technology Training  
+- Tech Career Skills  
 
 ---
 
@@ -94,4 +139,6 @@ An all-in-one academic assistant:
 
 ## ⚡ Mindset
 
-> Build fast. Learn faster. Ship real things.
+> Build practical systems.  
+> Focus on clarity over complexity.  
+> Ship real things.
